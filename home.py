@@ -11,7 +11,7 @@ import tb_pl
 if 'current_app' not in st.session_state:
     st.session_state['current_app'] = None
 
-st.title('EG_freee関連アプリ')
+st.title('freee変換アプリ')
 
 
 # ボタンが押されたときに実行する関数
